@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXM0dcRluKA=",
+  "success": true,
+  "projectFilePath": "C:\\projects\\DialogflowBot\\DialogflowBot\\DialogflowBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasee\\.nuget\\packages\\google.api.commonprotos\\2.17.0\\google.api.commonprotos.2.17.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.api.gax\\4.13.1\\google.api.gax.4.13.1.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.api.gax.grpc\\4.13.1\\google.api.gax.grpc.4.13.1.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.apis\\1.73.0\\google.apis.1.73.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.apis.auth\\1.73.0\\google.apis.auth.1.73.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.apis.core\\1.73.0\\google.apis.core.1.73.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.cloud.dialogflow.v2\\4.29.0\\google.cloud.dialogflow.v2.4.29.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.cloud.dialogflow.v2beta1\\1.0.0-beta29\\google.cloud.dialogflow.v2beta1.1.0.0-beta29.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.cloud.location\\2.4.0\\google.cloud.location.2.4.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.longrunning\\3.5.0\\google.longrunning.3.5.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\google.protobuf\\3.31.1\\google.protobuf.3.31.1.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\grpc.auth\\2.71.0\\grpc.auth.2.71.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\grpc.core.api\\2.71.0\\grpc.core.api.2.71.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\grpc.net.client\\2.71.0\\grpc.net.client.2.71.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\grpc.net.common\\2.71.0\\grpc.net.common.2.71.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.9\\microsoft.aspnetcore.signalr.1.2.9.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\yasee\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.SignalR will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\projects\\DialogflowBot\\DialogflowBot\\DialogflowBot.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\projects\\DialogflowBot\\DialogflowBot\\DialogflowBot.csproj",
+      "libraryId": "Microsoft.AspNetCore.SignalR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
