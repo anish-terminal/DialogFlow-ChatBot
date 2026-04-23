@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DialogflowBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2fdf7403138fa10d3d90dd485ee23a7af90349")]
 [assembly: System.Reflection.AssemblyProductAttribute("DialogflowBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DialogflowBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

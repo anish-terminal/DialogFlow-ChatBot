@@ -14,6 +14,7 @@ namespace DialogflowBot.SignalR
             _chatMemoryService = chatMemoryService;
         }
 
+        // Sending and Receiving messages through SignalR
         public async Task SendMessage(string sessionId, string message)
         {
             try
@@ -27,6 +28,7 @@ namespace DialogflowBot.SignalR
                 
                 await Clients.Caller.SendAsync("ReceiveMessage", userMessage);
 
+                // Adding user message to chat memory
                 _chatMemoryService.AddMessage(sessionId, userMessage);
 
                 var botReply = await _botservice.DetectIntent(sessionId, message);
@@ -40,6 +42,7 @@ namespace DialogflowBot.SignalR
 
                 await Clients.Caller.SendAsync("ReceiveMessage", botMessage);
 
+                // Adding bot message to chat memory
                 _chatMemoryService.AddMessage(sessionId, botMessage);
             }
             catch (Exception ex)
@@ -52,6 +55,7 @@ namespace DialogflowBot.SignalR
             }
         }
 
+        //  Loading all the previous messages 
         public override async Task OnConnectedAsync()
         {
             try

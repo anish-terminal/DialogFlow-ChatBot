@@ -1,122 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\projects\\DialogflowBot\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|c:\\projects\\dialogflowbot\\dialogflowbot\\services\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|solutionrelative:dialogflowbot\\services\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|c:\\projects\\dialogflowbot\\dialogflowbot\\controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|solutionrelative:dialogflowbot\\controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|c:\\projects\\dialogflowbot\\dialogflowbot\\services\\chatmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|solutionrelative:dialogflowbot\\services\\chatmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|c:\\projects\\dialogflowbot\\dialogflowbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|solutionrelative:dialogflowbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|c:\\projects\\dialogflowbot\\dialogflowbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|solutionrelative:dialogflowbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|c:\\projects\\dialogflowbot\\dialogflowbot\\signalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A28C3E9D-99F8-F8EB-0E4B-CF16D9A7533E}|DialogflowBot\\DialogflowBot.csproj|solutionrelative:dialogflowbot\\signalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\projects\\DialogflowBot\\DialogflowBot\\appsettings.json",
-              "RelativeDocumentMoniker": "DialogflowBot\\appsettings.json",
-              "ToolTip": "C:\\projects\\DialogflowBot\\DialogflowBot\\appsettings.json",
-              "RelativeToolTip": "DialogflowBot\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-21T12:01:37.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\projects\\DialogflowBot\\DialogflowBot\\SignalR\\ChatHub.cs",
-              "RelativeDocumentMoniker": "DialogflowBot\\SignalR\\ChatHub.cs",
-              "ToolTip": "C:\\projects\\DialogflowBot\\DialogflowBot\\SignalR\\ChatHub.cs",
-              "RelativeToolTip": "DialogflowBot\\SignalR\\ChatHub.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAqwFAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T15:23:43.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChatMemoryService.cs",
-              "DocumentMoniker": "C:\\projects\\DialogflowBot\\DialogflowBot\\Services\\ChatMemoryService.cs",
-              "RelativeDocumentMoniker": "DialogflowBot\\Services\\ChatMemoryService.cs",
-              "ToolTip": "C:\\projects\\DialogflowBot\\DialogflowBot\\Services\\ChatMemoryService.cs",
-              "RelativeToolTip": "DialogflowBot\\Services\\ChatMemoryService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:15:28.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projects\\DialogflowBot\\DialogflowBot\\Program.cs",
-              "RelativeDocumentMoniker": "DialogflowBot\\Program.cs",
-              "ToolTip": "C:\\projects\\DialogflowBot\\DialogflowBot\\Program.cs",
-              "RelativeToolTip": "DialogflowBot\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T11:27:13.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BotController.cs",
-              "DocumentMoniker": "C:\\projects\\DialogflowBot\\DialogflowBot\\Controllers\\BotController.cs",
-              "RelativeDocumentMoniker": "DialogflowBot\\Controllers\\BotController.cs",
-              "ToolTip": "C:\\projects\\DialogflowBot\\DialogflowBot\\Controllers\\BotController.cs",
-              "RelativeToolTip": "DialogflowBot\\Controllers\\BotController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T11:12:01.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BotService.cs",
-              "DocumentMoniker": "C:\\projects\\DialogflowBot\\DialogflowBot\\Services\\BotService.cs",
-              "RelativeDocumentMoniker": "DialogflowBot\\Services\\BotService.cs",
-              "ToolTip": "C:\\projects\\DialogflowBot\\DialogflowBot\\Services\\BotService.cs",
-              "RelativeToolTip": "DialogflowBot\\Services\\BotService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T10:13:09.555Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

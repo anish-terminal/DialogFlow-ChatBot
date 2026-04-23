@@ -8,13 +8,13 @@ namespace DialogflowBot.Services
     {
 
         private readonly string projectId;
-        // TODO: put your knowledge id here 
         private readonly string KNOWLEDGE_ID = "";
 
         public BotService(IConfiguration config)
         {
             try
             {
+                // TODO: rename your downloaded credential file to credentials and put it in project folder
                 var path = Path.Combine(Directory.GetCurrentDirectory(), "credentials.json");
 
                 var json = File.ReadAllText(path);
@@ -57,13 +57,13 @@ namespace DialogflowBot.Services
                     }
                 };
 
-                var queryParams = new QueryParameters
-                {
-                    KnowledgeBaseNames =
-                    {
-                    KnowledgeBaseName.FromProjectKnowledgeBase(projectId, KNOWLEDGE_ID).ToString()
-                    }
-                };
+                //var queryParams = new QueryParameters
+                //{
+                //    KnowledgeBaseNames =
+                //    {
+                //    KnowledgeBaseName.FromProjectKnowledgeBase(projectId, KNOWLEDGE_ID).ToString()
+                //    }
+                //};
 
                 var response = await sessionClient.DetectIntentAsync(sessionName, queryInput);
                 return response.QueryResult?.FulfillmentText ?? "Sorry, I didn’t understand."; ;

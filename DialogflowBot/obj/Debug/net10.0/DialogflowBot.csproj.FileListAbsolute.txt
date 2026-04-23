@@ -52,3 +52,4 @@ C:\projects\DialogflowBot\DialogflowBot\obj\Debug\net10.0\DialogflowBot.pdb
 C:\projects\DialogflowBot\DialogflowBot\obj\Debug\net10.0\DialogflowBot.genruntimeconfig.cache
 C:\projects\DialogflowBot\DialogflowBot\obj\Debug\net10.0\ref\DialogflowBot.dll
 C:\projects\DialogflowBot\DialogflowBot\bin\Debug\net10.0\Google.Cloud.Dialogflow.V2Beta1.dll
+C:\projects\DialogflowBot\DialogflowBot\obj\Debug\net10.0\DialogflowBot.sourcelink.json
